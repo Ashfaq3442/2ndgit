@@ -1,0 +1,74 @@
+git version 2.46.0.windows.1
+ git config --global
+
+ git config --global user.name
+
+ git config --global user.email
+
+mkdir gitfolder
+
+cd gitfolder
+
+git init
+
+git status
+
+git add abc.html
+
+git add --all
+
+git commit -m "this is our first github program" (ctrl +w+q in case of stuck)
+
+
+git help --all(for exit shift g and then q)
+
+
+git branch
+
+git branch test
+
+ git branch
+
+git checkout test
+
+
+
+
+
+
+3d day of git
+
+
+
+git remote add origin https://github.com/Ashfaq3442/2ndgit.git
+
+git push -u origin main
+
+git add 2ndgit.html
+
+git status
+
+git commit -m "second repository"
+
+git remote add origion https://github.com/Ashfaq3442/2ndgit.git
+
+git push -u origin main
+
+
+
+git add .
+OR
+git commit -a -m "meesage"
+
+
+make changes on git hub then run command 
+git pull
+
+make changes on local repo then run command 
+git push
+
+
+
+
+
+
